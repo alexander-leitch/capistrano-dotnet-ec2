@@ -1,0 +1,8 @@
+/Users/alexanderl/Sites/capistrano-aws-deploy/library/bin/Debug/netstandard2.0/library.deps.json
+/Users/alexanderl/Sites/capistrano-aws-deploy/library/bin/Debug/netstandard2.0/library.dll
+/Users/alexanderl/Sites/capistrano-aws-deploy/library/bin/Debug/netstandard2.0/library.pdb
+/Users/alexanderl/Sites/capistrano-aws-deploy/library/obj/Debug/netstandard2.0/library.csproj.CoreCompileInputs.cache
+/Users/alexanderl/Sites/capistrano-aws-deploy/library/obj/Debug/netstandard2.0/library.AssemblyInfoInputs.cache
+/Users/alexanderl/Sites/capistrano-aws-deploy/library/obj/Debug/netstandard2.0/library.AssemblyInfo.cs
+/Users/alexanderl/Sites/capistrano-aws-deploy/library/obj/Debug/netstandard2.0/library.dll
+/Users/alexanderl/Sites/capistrano-aws-deploy/library/obj/Debug/netstandard2.0/library.pdb

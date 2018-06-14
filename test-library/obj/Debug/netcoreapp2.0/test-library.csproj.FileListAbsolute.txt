@@ -1,0 +1,15 @@
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/test-library.deps.json
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/test-library.runtimeconfig.json
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/test-library.runtimeconfig.dev.json
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/test-library.dll
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/test-library.pdb
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/library.dll
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/bin/Debug/netcoreapp2.0/library.pdb
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/obj/Debug/netcoreapp2.0/test-library.csproj.CoreCompileInputs.cache
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/obj/Debug/netcoreapp2.0/test-library.AssemblyInfoInputs.cache
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/obj/Debug/netcoreapp2.0/test-library.AssemblyInfo.cs
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/obj/Debug/netcoreapp2.0/test-library.dll
+/Users/alexanderl/Sites/capistrano-aws-deploy/test-library/obj/Debug/netcoreapp2.0/test-library.pdb
