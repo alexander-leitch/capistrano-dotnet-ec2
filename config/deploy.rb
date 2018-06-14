@@ -16,8 +16,8 @@ set :ec2_region, %w{eu-west-1} # REQUIRED
 
 # set :ec2_filter_by_status_ok?, nil
 
-set :application, "my_app_name"
-set :repo_url, "git@example.com:me/my_repo.git"
+set :application, "capistrano-dotnet-ec2"
+set :repo_url, "git@github.com:alexander-leitch/capistrano-dotnet-ec2.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
