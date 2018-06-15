@@ -23,7 +23,9 @@ set :repo_url, "git@github.com:alexander-leitch/capistrano-dotnet-ec2.git"
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default deploy_to directory is /var/www/my_app_name
-# set :deploy_to, "/var/www/my_app_name"
+set :deploy_to, "/home/ec2-user/capistrano-dotnet-ec2"
+
+set :dotnet_target_path, "#{release_path}"
 
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh

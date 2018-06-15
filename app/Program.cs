@@ -1,6 +1,7 @@
 ﻿using System;
-using static System.Console;
 using Library;
+using static System.Console;
+
 
 namespace app
 {
